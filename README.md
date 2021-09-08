@@ -18,6 +18,11 @@ Escriba un servidor web que soporte múlltiples solicitudes seguidas (no concurr
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-taller-clientesyservicios.herokuapp.com/index.html)
 
+## Articulo con explicacion de la arquitextura
+
+
+(https://github.com/MiguelFuquene1024/AREP-Taller-Cliente-y-Servicios/blob/master/Descripcion%20del%20taller%20Clientes%20y%20servicios.pdf)]
+
 ## Implementacion
 
 - NetBeans(Editor de codigo IDE)
